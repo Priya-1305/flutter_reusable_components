@@ -1,16 +1,24 @@
-# reusable_components
+# Flutter GetX Reusable UI Components
 
-A new Flutter project.
+A reusable UI component library built with Flutter and GetX for clean, scalable app development.
 
-## Getting Started
+## 📂 Folder Structure
+lib/
+app/
+core/
+ui/
+components/
+pages/
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+- Modular **GetX** architecture
+- Atoms/Molecules/Organisms design system
+- Responsive layouts
+- Centralized theming
+- Loading states, debouncing, shimmers, badges, dialogs, snackbars
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Setup
+```bash
+flutter pub get
+flutter run
